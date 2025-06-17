@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was secara dinamis generated on 17 Juni 2025 at 6:45 am by All in One SEO v4.8.3.2 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was secara dinamis generated on 17 Juni 2025 at 5:00 pm by All in One SEO v4.8.3.2 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://dianluna.github.io/prankojol.github.io/default-sitemap.xsl"?>
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>OJOLSTREAM - Prankojol</title>
-		<link><![CDATA[/]]></link>
+		<link><![CDATA[https://dianluna.github.io/prankojol.github.io/]]></link>
 		<description><![CDATA[OJOLSTREAM - Prankojol]]></description>
 		<lastBuildDate><![CDATA[Fri, 13 Jun 2025 08:30:48 +0000]]></lastBuildDate>
 		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-		<atom:link href="/sitemap.rss" rel="self" type="application/rss+xml" />
+		<atom:link href="https://dianluna.github.io/prankojol.github.io/sitemap.rss" rel="self" type="application/rss+xml" />
 		<ttl><![CDATA[60]]></ttl>
 
 		<item>
-			<guid><![CDATA[/]]></guid>
-			<link><![CDATA[/]]></link>
+			<guid><![CDATA[https://dianluna.github.io/prankojol.github.io/]]></guid>
+			<link><![CDATA[https://dianluna.github.io/prankojol.github.io/]]></link>
 			<title>Ojolstream &#8211; Prank Ojol Terbaru Tanpa VPN</title>
 			<pubDate><![CDATA[Fri, 13 Jun 2025 08:30:48 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[/halo-dunia/]]></guid>
-			<link><![CDATA[/halo-dunia/]]></link>
+			<guid><![CDATA[https://dianluna.github.io/prankojol.github.io/halo-dunia/]]></guid>
+			<link><![CDATA[https://dianluna.github.io/prankojol.github.io/halo-dunia/]]></link>
 			<title>Halo dunia!</title>
 			<pubDate><![CDATA[Fri, 13 Jun 2025 03:24:07 +0000]]></pubDate>
 		</item>
 					<item>
-			<guid><![CDATA[/laman-contoh/]]></guid>
-			<link><![CDATA[/laman-contoh/]]></link>
+			<guid><![CDATA[https://dianluna.github.io/prankojol.github.io/laman-contoh/]]></guid>
+			<link><![CDATA[https://dianluna.github.io/prankojol.github.io/laman-contoh/]]></link>
 			<title>Laman Contoh</title>
 			<pubDate><![CDATA[Fri, 13 Jun 2025 03:24:07 +0000]]></pubDate>
 		</item>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was secara dinamis generated on 17 Juni 2025 at 6:45 am by All in One SEO v4.8.3.2 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was secara dinamis generated on 17 Juni 2025 at 5:00 pm by All in One SEO v4.8.3.2 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=root"?>
+<?xml-stylesheet type="text/xsl" href="https://dianluna.github.io/prankojol.github.io/default-sitemap.xsl?sitemap=root"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc><![CDATA[/post-sitemap.xml]]></loc>
+		<loc><![CDATA[https://dianluna.github.io/prankojol.github.io/post-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-06-13T03:24:07+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[/page-sitemap.xml]]></loc>
+		<loc><![CDATA[https://dianluna.github.io/prankojol.github.io/page-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-06-13T08:30:48+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[/category-sitemap.xml]]></loc>
+		<loc><![CDATA[https://dianluna.github.io/prankojol.github.io/category-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-06-13T03:24:07+00:00]]></lastmod>
 	</sitemap>
 </sitemapindex>
